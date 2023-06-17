@@ -1,0 +1,25 @@
+/* my html recipe CSS */
+
+.Aztec-Chicken {
+    background-color: green;
+    color: white;
+    font-size: 50px;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.Aztec-Chicken {
+    height: auto;
+    width: 500px;
+}
+
+.grilled-chicken{
+    font-size: 40px;
+    color: white;
+    background-color: red;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+/* Cascading style Sheet */
+
